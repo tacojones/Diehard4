@@ -5,10 +5,10 @@ GTK3 Theme
 
 Full rewrite of the gtk2/gtk3 themes. Includes themes for cinnamon, openbox, xfwm, pekwm and tint2. Unity support is included, but it's not so great.
 
-Font is cure, from the [Artwiz](http://sourceforge.net/projects/artwiz-latin1) font pack ([install guide](http://whatnotlinux.blogspot.com/2011/11/install-artwiz-fonts-in-ubuntu.html)).
-Icons are [Faenza](http://tiheum.deviantart.com/art/Faenza-Icons-173323228) and [Variations](http://www.deviantart.com/art/VARIATIONS-1-201731613).
-[Wallpaper](http://i.imgbox.com/o3LkOuEW.png)
-[Audacious skin](http://zomby.deviantart.com/art/Diehard4-for-Audacious-599888259)
+Font is cure, from the [Artwiz](http://sourceforge.net/projects/artwiz-latin1) font pack ([install guide](http://whatnotlinux.blogspot.com/2011/11/install-artwiz-fonts-in-ubuntu.html)).  
+Icons are [Faenza](http://tiheum.deviantart.com/art/Faenza-Icons-173323228) and [Variations](http://www.deviantart.com/art/VARIATIONS-1-201731613).  
+[Wallpaper](http://i.imgbox.com/o3LkOuEW.png)  
+[Audacious skin](http://zomby.deviantart.com/art/Diehard4-for-Audacious-599888259)  
 
 Changelog
 v1.5 (3/17/16)
