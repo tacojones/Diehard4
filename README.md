@@ -30,8 +30,4 @@ v1.2
 • gtk2 menu arrow selected  
 • gtk2 input padding  
 • gtk2 progress bar height  
-• Added style for Reddit Reader desklet in Cinnamon theme  
-
-Todo  
-• Selected text color on buttons and combo boxes in Firefox  
-• Install Unity and spend about a week working on the theme (multiple polls show it's in the top two most used DEs)
+• Added style for Reddit Reader desklet in Cinnamon theme
