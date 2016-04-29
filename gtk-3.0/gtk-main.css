@@ -46,7 +46,10 @@
     background-clip: padding-box;
     outline-style: none;
     border-color: @border_color;
+}
 
+GtkWindow {
+color: @fg_color;
 }
 
 *:insensitive {
